@@ -6,3 +6,4 @@ Test:
   script:
     - echo "Test pipeline trigger from github"
     - echo "Testing push from github."
+    - echo "testing again pushing from github"
