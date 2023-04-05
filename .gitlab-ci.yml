@@ -5,3 +5,4 @@ Test:
   stage: Test
   script:
     - echo "Test pipeline trigger from github"
+    - echo "Testing"
